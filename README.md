@@ -1,2 +1,2 @@
-Creating a new branch is quick llalalo
+Creating a new branch is quick & simple
 
