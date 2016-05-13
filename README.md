@@ -1,1 +1,1 @@
-Creating a new branch is quick and simple for deb
+Creating a new branch is quick and simple for master
